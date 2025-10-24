@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 Akash Dakshwanshi <ZoxxOP>
+# Location: Mainpuri, Uttar Pradesh 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of Akash Dakshwanshi.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,7 +17,7 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: akp954834@gmail.com
 
 
 HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -240,7 +240,7 @@ HELP_21 = """
 /vid : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ɪɴsᴛᴀ ᴛᴡɪᴛᴛᴇʀ ᴀɴᴅ ᴍᴏʀᴇ ᴘʟᴀᴛғᴏʀᴍs ᴠɪᴅᴇᴏ.
 """
 
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
+# Copyright (c) 2025 Akash Dakshwanshi <ZoxxOP>
 
 # 🎯 TEXT TO SPEECH COMMANDS
 HELP_22 = """ 🔊 <b>TEXT TO SPEECH</b> 🎤
@@ -371,8 +371,8 @@ HELP_37 = """🤖 <b>ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇsᴇ ʙᴏᴛs</b> �
 
 🔹 <b>ᴛʜɪs ғᴜɴᴄᴛɪᴏɴ ɪs sᴜᴘᴘᴏʀᴛᴇᴅ ɪɴ:</b>  
 
-• @ShrutixMusicbot – <b>Sʜʀᴜᴛɪ Mᴜsɪᴄ Bᴏᴛ</b>  
-• @M4_Music_BoT – <b>M4 Mᴜsɪᴄ Bᴏᴛ</b>  
+• @Ananya_VcMusic_Bot – <b>Aɴᴀᴍʏᴀ Mᴜsɪᴄ Bᴏᴛ</b>  
+• @M4_Sonic_BoT – <b>M4 Sᴏɴɪᴄ Bᴏᴛ</b>  
 
 ✨ <b>ᴜsᴇ ᴛʜᴇsᴇ ʙᴏᴛs ᴛᴏ ᴇɴᴊᴏʏ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ғᴜʟʟʏ.</b>"""
 
@@ -399,13 +399,13 @@ HELP_38 = """💝 <b>LOVE BIRDS TOOLS</b> 🕊️
 - <b>ꜱᴘʀᴇᴀᴅ ʟᴏᴠᴇ & ᴄʟɪᴍʙ ᴛʜᴇ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ</b> ❤️
 """
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @ZoxxOP  Akash Dakshwanshi
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Akash Dakshwanshi (aka @ZoxxOP)
+# 🔗 GitHub : https://github.com/ZoxxOP/AnanyaMusic
+# 📢 Telegram Channel : https://t.me/AnanyaBots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From AnanyaBots 
