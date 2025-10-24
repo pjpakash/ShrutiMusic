@@ -69,7 +69,7 @@ INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/akash_daksh1c")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@akashh_editz")
 GITHUB = os.getenv("GITHUB", "https://github.com/ZoxxOP")
 DONATE = os.getenv("DONATE", "https://t.me/AnanyaBots/128")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-10-12-225")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
