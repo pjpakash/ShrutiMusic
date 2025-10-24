@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 Akash Dakshwanshi <ZoxxOP>
+# Location: Mainpuri, Uttar Pradesh 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of Akash Dakshwanshi.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,7 +17,7 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: akp954834@gmail.com
 
 
 import asyncio
@@ -127,26 +127,26 @@ async def init():
     await Nand.decorators()
 
     LOGGER("ShrutiMusic").info(
-        "\x53\x68\x72\x75\x74\x69\x20\x4d\x75\x73\x69\x63\x20\x53\x74\x61\x72\x74\x65\x64\x20\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6c\x6c\x79\x2e\x0a\x0a\x44\x6f\x6e\x27\x74\x20\x66\x6f\x72\x67\x65\x74\x20\x74\x6f\x20\x76\x69\x73\x69\x74\x20\x40\x53\x68\x72\x75\x74\x69\x42\x6f\x74\x73"
+        "\x41\x6e\x61\x6e\x79\x61\x20\x4d\x75\x73\x69\x63\x20\x53\x74\x61\x72\x74\x65\x64\x20\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6c\x6c\x79\x2e\x0a\x0a\x44\x6f\x6e\x27\x74\x20\x66\x6f\x72\x67\x65\x74\x20\x74\x6f\x20\x76\x69\x73\x69\x74\x20\x40\x41\x6e\x61\x6e\x79\x61\x42\x6f\x74\x73"
     )
 
     await idle()
 
     await app.stop()
     await userbot.stop()
-    LOGGER("ShrutiMusic").info("Stopping Shruti Music Bot...🥺")
+    LOGGER("ShrutiMusic").info("Stopping Ananya Music Bot...🥺")
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(init())
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @ZoxxOP  Akash Dakshwanshi
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Akash Dakshwanshi (aka @ZoxxOP)
+# 🔗 GitHub : https://github.com/ZoxxOP/AnanyaMusic
+# 📢 Telegram Channel : https://t.me/AnanyaBots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From AnanyaBots 
